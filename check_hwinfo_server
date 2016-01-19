@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "slam awa is thna"
+echo "check system info in lunux/ubuntu"
 ##
 # Description: Executable et fichier de config
 #
@@ -9,7 +9,7 @@ echo "slam awa is thna"
 #
 # Copyright(c) 2013-2014 Ismail Elyaakouby
 # 
-# Web site : doctorlinux.net
+# Web site : http://www.tutorials-space.com
 ##
 #!/bin/bash
 echo -e "============= Hostname =======================\n"
